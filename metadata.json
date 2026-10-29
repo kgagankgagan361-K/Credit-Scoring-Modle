@@ -1,0 +1,8 @@
+{
+  "name": "CodeAlpha ML Mentor - Credit Scoring Model",
+  "description": "Step-by-step interactive mentorship studio, Jupyter notebook guide, and credit risk simulation workbench for CodeAlpha Machine Learning interns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
